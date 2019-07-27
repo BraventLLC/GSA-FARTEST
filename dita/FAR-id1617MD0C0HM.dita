@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="id1617MD0C0HM"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">31.110</ph> Indirect cost rate certification
+and penalties on unallowable costs.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d1917e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d1931e17" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                   Certain contracts require certification
+of the indirect cost rates proposed for final payment purposes.
+See <xref href="FAR-i1075098.dita#i1075098"
+                        base="i1075098"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">42.703-2</xref> for administrative
+procedures regarding the certification provisions and the related
+contract clause prescription.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d1931e29" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                   If unallowable
+costs are included in final indirect cost settlement proposals,
+penalties may be assessed. See 42.709 for administrative procedures
+regarding the penalty assessment provisions and the related contract
+clause prescription.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
