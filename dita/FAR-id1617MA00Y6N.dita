@@ -1,32 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-	  <concept id="id1617MA00Y6N"
-            props="TORP"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">1.000</ph> Scope of part.</title>
-		    <conbody class="- topic/body concept/conbody ">
-			      <p id="d8e13" class="- topic/p ">This part sets forth basic policies and general information about the Federal Acquisition Regulations System including purpose, authority, applicability, issuance, arrangement, numbering, dissemination, implementation, supplementation, maintenance, administration, and deviation. <ph class="- topic/ph ">
-					          <xref href="FAR-i1126783.dita#i1126783"
-                     base="i1126783"
-                     outputclass="fm:Subparts"
-                     class="- topic/xref ">subparts  1.2</xref>
-				        </ph>, <ph class="- topic/ph ">
-					          <xref href="FAR-i1126701.dita#i1126701"
-                     base="i1126701"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">1.3</xref>
-				        </ph>, and <ph class="- topic/ph ">
-					          <xref href="FAR-i1126600.dita#i1126600"
-                     base="i1126600"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">1.4</xref>
-				        </ph> prescribe administrative procedures for maintaining the FAR System.</p>
-		    </conbody>
-	  </concept>
-</dita>
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<p>1.000 Scope of part.</p>
+
+<p>This part sets forth basic policies and general information about the Federal Acquisition Regulations System including purpose, authority, applicability, issuance, arrangement, numbering, dissemination, implementation, supplementation, maintenance, administration, and deviation. subparts&nbsp; 1.2 , 1.3 , and 1.4 prescribe a<ins class="ice-cts ice-ins" data-changedata="" data-cid="3" data-last-change-time="1565353448376" data-time="1565353448376" data-userid="" data-username="">K</ins>dministrative procedures for <ins class="ice-cts ice-ins" data-changedata="" data-cid="4" data-last-change-time="1565353454137" data-time="1565353451626" data-userid="" data-username="">lhlhlh ljj l</ins>maintaining the FAR System.</p>
+
+<p><ins class="ice-cts ice-ins" data-changedata="" data-cid="2" data-last-change-time="1565353446619" data-time="1565353446619" data-userid="" data-username="">A</ins></p>
