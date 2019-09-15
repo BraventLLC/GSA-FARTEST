@@ -1,32 +1,137 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
-      ditaarch:DITAArchVersion="1.3">
-	  <concept id="id1617MA00Y6N"
-            props="TORP"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">1.000</ph> Scope of part.</title>
-		    <conbody class="- topic/body concept/conbody ">
-			      <p id="d8e13" class="- topic/p ">This part sets forth basic policies and general information about the Federal Acquisition Regulations System including purpose, authority, applicability, issuance, arrangement, numbering, dissemination, implementation, supplementation, maintenance, administration, and deviation. <ph class="- topic/ph ">
-					          <xref href="FAR-i1126783.dita#i1126783"
-                     base="i1126783"
-                     outputclass="fm:Subparts"
-                     class="- topic/xref ">subparts  1.2</xref>
-				        </ph>, <ph class="- topic/ph ">
-					          <xref href="FAR-i1126701.dita#i1126701"
-                     base="i1126701"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">1.3</xref>
-				        </ph>, and <ph class="- topic/ph ">
-					          <xref href="FAR-i1126600.dita#i1126600"
-                     base="i1126600"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">1.4</xref>
-				        </ph> prescribe administrative procedures for maintaining the FAR System.</p>
-		    </conbody>
-	  </concept>
-</dita>
+<?xml version="1.0" encoding="UTF-8"?><dita ditaarch:ditaarchversion="1.3" domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  " xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"> <concept class="- topic/topic concept/concept " ditaarch:ditaarchversion="1.3" id="id1617MA00Y6N" props="TORP">
+<title class="- topic/title "></title>
+<del class="ice-del ice-cts-1" data-changedata="" data-cid="3" data-last-change-time="1568564806263" data-time="1568564806263" data-userid="1" data-username="admin"> </del><conbody class="- topic/body concept/conbody ">
+<p class="- topic/p " id="d8e13">This part sets forth basic policies and general information about the Federal Acquisition Regulations System including <ins class="ice-ins ice-cts-1" data-changedata="" data-cid="13" data-last-change-time="1568564864610" data-time="1568564860825" data-userid="1" data-username="admin">sdsgsgd fdds fs </ins>purpose, authority, <ins class="ice-ins ice-cts-1" data-changedata="" data-cid="29" data-last-change-time="1568564873449" data-time="1568564871634" data-userid="1" data-username="admin">AYASKANT </ins>applicability, <ins class="ice-ins ice-cts-1" data-changedata="" data-cid="23" data-last-change-time="1568565468949" data-time="1568565467015" data-userid="1" data-username="admin">enetering thsi </ins>issuance, arrangement, <ins class="ice-ins ice-cts-1" data-changedata="" data-cid="6" data-last-change-time="1568565635708" data-time="1568565635352" data-userid="1" data-username="admin">file updated by AK47 </ins>numbering, dissemination, implementation, supplementation,<ins class="ice-ins ice-cts-1" data-changedata="" data-cid="20" data-last-change-time="1568565570897" data-time="1568565569122" data-userid="1" data-username="admin">here i added </ins> maintenance, administration,<ins class="ice-ins ice-cts-1" data-changedata="" data-cid="14" data-last-change-time="1568565393406" data-time="1568565388580" data-userid="1" data-username="admin">Editing second </ins>&nbsp;and deviation. <ph class="- topic/ph "> <xref base="i1126783" class="- topic/xref " href="FAR-i1126783.dita#i1126783" outputclass="fm:Subparts">subparts&nbsp; 1.2</xref> </ph>, <ph class="- topic/ph "> <xref base="i1126701" class="- topic/xref " href="FAR-i1126701.dita#i1126701" outputclass="fm:ParaNumOnly">1.3</xref> </ph>, and <ph class="- topic/ph "> <xref base="i1126600" class="- topic/xref " href="FAR-i1126600.dita#i1126600" outputclass="fm:ParaNumOnly">1.4</xref> </ph> prescribe administrative procedures for maintaining the FAR System.<ins class="ice-ins ice-cts-1" data-changedata="" data-cid="4" data-last-change-time="1568567149671" data-time="1568567149578" data-userid="1" data-username="admin">sd</ins></p>
+
+<p class="- topic/p "><ins class="ice-ins ice-cts-1" data-changedata="" data-cid="2" data-last-change-time="1568565632999" data-time="1568565385407" data-userid="1" data-username="admin">Adding one file updated by AK47</ins></p>
+
+<p class="- topic/p "><ins class="ice-ins ice-cts-1" data-changedata="" data-cid="2" data-last-change-time="1568565632999" data-time="1568565385407" data-userid="1" data-username="admin">Second one added ﻿</ins></p>
+
+<p class="- topic/p "><ins class="ice-ins ice-cts-1" data-changedata="" data-cid="2" data-last-change-time="1568565632999" data-time="1568565385407" data-userid="1" data-username="admin">one more again﻿</ins></p>
+</conbody> </concept> </dita>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
